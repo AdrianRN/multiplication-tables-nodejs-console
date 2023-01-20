@@ -2,6 +2,8 @@
 
 run ```npm install``` to build the necesary node modules
 
+Example: ```node app -b-5 -l -h=30```
+
 # Params:
 
 ```
